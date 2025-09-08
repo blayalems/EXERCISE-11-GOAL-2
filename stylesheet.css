@@ -7,6 +7,8 @@ p {
     background-color: red;
     height: 500px;
     width: 500px;
+    float: right;
+    clear: both;
 }
 .green {
     text-emphasis-color: white;
@@ -14,6 +16,8 @@ p {
     background-color: green;
     height: 500px;
     width: 500px;
+    float: right;
+    clear: both;
 }
 .blue {
     text-emphasis-color: white;
@@ -21,4 +25,6 @@ p {
     background-color: rgb(7, 93, 197);
     height: 500px;
     width: 500px;
+    float: right;
+    clear: both;
 }
